@@ -1,5 +1,5 @@
 ---
-title: finishing off
+title: week 5
 layout: post
 author: james.spicer
 permalink: /finishing-off/
@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Finishing off</td>
     <td>Date</td>
-    <td>17/10/2016</td>
+    <td>08/11/2016</td>
   </tr>
 </table>
 
@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td></td>
+    <td>Finish booklet and check</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
@@ -41,20 +41,20 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td> I learnt that during the time that it took to finish the booklet, i was learning all of it at the same time and little bits of it all built up to the final piece. I also learnt that by looking at what work you are set to do, it isn't actually as hard as it might seem. Such as the last piece, it was really long with lots of words and numbers, but eventually we did do it.
+    <td> I learnt that during the time that it took to finish the booklet, i was building up my knowledge to the last stage, the robot. I also learnt that by looking at your work and checking it, at sometimes, can be really useful, as i am almost guaranteed to make mistakes during the lesson. A good example for this is a couple of stages before the robot, when we had to alter the spacing between the line and the code. At first i didn't get it right and got really annoyed at myself, but when i went back and checked, i knew that checking my work was the problem.
 </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The thing that limited my learning was i still got distracted easily. But this was for a different reason. The reason was that the people next to us had done less work than we had, but they got to do their blog once they had "finished". So, they had no homework for i.t. The reason for this is because they didn’t do the last activity in the booklet.</td>
+    <td>The thing that limited my learning was, like i said in what i learnt, was my ability to go back on my work and check what i was doing was right. I really need to work on my habit of going back and checking my work. This, i think is the most important habit i need to workon. This is because this will help me in other subjects and everyday life as well as I.T.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>  Next time, i am not sure what we are doing after half term but, if we are carrying on and we get to make our own, i will make sure that our communication is solid, use more logical thinking, swap every 5-10 minutes and finally check that i have typed the right thing. The thing that will improve my learning most, is to concentrate on my own work instead of someone else's.</td>
+    <td>  Next time, i will make sure that i go back and check my work. I will improve my learning by paying more attention of what is going on and to CHECK MY WORK.</td>
   </tr>
 </table>
 
