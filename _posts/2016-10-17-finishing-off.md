@@ -54,7 +54,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>  Next time, i will make sure that i go back and check my work. I will improve my learning by paying more attention of what is going on and to CHECK MY WORK.</td>
+    <td>  Next time, i will make sure that i go back and check my work. I will improve my learning by paying more attention of what is going on and to CHECK MY WORK. Next time i will read the instructions clearly, because the reason of why we hadn’t got our robot up and running was because it started in the wrong position.</td>
   </tr>
 </table>
 
