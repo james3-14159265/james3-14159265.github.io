@@ -1,5 +1,5 @@
 ---
-title: Copy of James spicer Using Github 1
+title: Week 3
 layout: post
 author: james.spicer
 permalink: /copy-of-james-spicer-using-github-1/
