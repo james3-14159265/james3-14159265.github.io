@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>ROBOT ARM</td>
+    <td>ROBOT ARM  .</td>
     <td>Date</td>
     <td>08/11/2016</td>
   </tr>
@@ -49,7 +49,7 @@ published: true
     <td> I learnt that during the time that it took to finish the booklet, i was building up my knowledge to the last stage, the robot. I also learnt that by looking at your work and checking it, at sometimes, can be really useful, as i am almost guaranteed to make mistakes during the lesson. A good example for this is a couple of stages before the robot, when we had to alter the spacing between the line and the code. At first i didn't get it right and got really annoyed at myself, but when i went back and checked, i knew that checking my work was the problem.
 
 
-</td>
+.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
@@ -59,7 +59,7 @@ published: true
 
 
 
-</td>
+.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
