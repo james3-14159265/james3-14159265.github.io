@@ -47,7 +47,7 @@ Yes
 </td>
   </tr>
   <tr>
-    <td>…...How did I learn? What strategies were effective? 
+    <td>***How did I learn? What strategies were effective? ***
 </td>
   </tr>
   <tr>
@@ -56,7 +56,7 @@ Yes
 </td>
   </tr>
   <tr>
-    <td>…...What limited my learning? Which habits do I need to work on? 
+    <td>***What limited my learning? Which habits do I need to work on? ***
 </td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@ Yes
 .</td>
   </tr>
   <tr>
-    <td>…...What will I change for next time? How will I improve my learning?
+    <td>***What will I change for next time? How will I improve my learning?***
 </td>
   </tr>
   <tr>
