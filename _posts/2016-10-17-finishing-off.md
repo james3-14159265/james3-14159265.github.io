@@ -1,9 +1,14 @@
 ---
 title: Week 5, robot arm!
+
 layout: post
+
 author: james.spicer
+
 permalink: /finishing-off/
+
 source-id: 1HCITpJG49RRQ-fY-dvmhydMJQdoDMa_chiVyJUym8zw
+
 published: true
 ---
 <table>
