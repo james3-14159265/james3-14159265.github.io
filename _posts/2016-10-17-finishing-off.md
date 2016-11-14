@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <td>Title:</td>
     <td>ROBOT ARM  .</td>
     <td>Date</td>
     <td>08/11/2016</td>
