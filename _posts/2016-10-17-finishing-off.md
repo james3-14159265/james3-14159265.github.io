@@ -23,14 +23,18 @@ published: true
 </td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
-    <td>To finish off the booklet
+    <td>
+Target for this lesson?</td>
+    <td>
+To finish off the booklet
 </td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
+    <td>
+Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td> Yes
+    <td> 
+Yes
 </td>
   </tr>
 </table>
