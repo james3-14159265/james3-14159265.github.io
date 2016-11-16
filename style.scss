@@ -18,7 +18,11 @@ html {
 }
 
 body {
-	background-image : url ("http://oi59.tinypic.com/ekez5w.jpg")  
+	background-image : url("http://oi59.tinypic.com/ekez5w.jpg"); 
+		// backround-image : url("http://oi59.tinypic.com/ekez5w.jpg");
+		backround-repeat: no-repeat;
+	backround-attachment: fixed;
+	backround-position: centre;
 	font: 18px/1.4 $helvetica;
   color: #cab0d6;
 }
