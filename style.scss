@@ -18,8 +18,8 @@ html {
 }
 
 body {
-  background-image : url("http://oi59.tinypic.com/ekez5w.jpg"); 
-  // backround-image : url("http://oi59.tinypic.com/ekez5w.jpg");
+  background-image: url("http://freshwallpapers.in/walls/abstract_digital-HD.jpg"); 
+  // backround-image: url("http://www.sociallink1.com/wp-content/uploads/2015/06/Free-Download-Background-Images-For-Website-Design-4.jpg");
   backround-repeat: no-repeat;
   backround-attachment: fixed;
   backround-position: centre;
@@ -27,18 +27,22 @@ body {
   color: #ffffff;
 }
 
+
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  maxdth: 850px;
   padding: 0 10px;
   width: 100%;
+  backround:rgba(35, 50, 55, 0.9);
+	border-radius: 25px;
+  padding: 20px;
+	border-bottom: 1px solid white;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: #ffffff;
   font-weight: bold;
-
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
