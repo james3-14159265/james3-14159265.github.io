@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title:</td>
+    <th>Title:</th>
     <td>Codecademy Taking a vacation</td>
   </tr>
 </table>
@@ -16,7 +16,7 @@ published: true
 
 <table>
   <tr>
-    <td>Date:</td>
+    <th>Date:</th>
     <td>27.02.17</td>
   </tr>
 </table>
@@ -24,7 +24,7 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>Taking a vacation (not literally)</td>
   </tr>
 </table>
@@ -32,7 +32,7 @@ published: true
 
 <table>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To complete some of the exercises on codecademy</td>
   </tr>
 </table>
@@ -40,7 +40,7 @@ published: true
 
 <table>
   <tr>
-    <td>Did i reach my target?</td>
+    <th>Did i reach my target?</th>
     <td>Yes</td>
   </tr>
 </table>
@@ -48,15 +48,15 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson review</td>
+    <th>Lesson review</th>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td>***How did i learn? What strategies were effective?***
-</td>
+    <th>***How did i learn? What strategies were effective?***
+    </th>
   </tr>
   <tr>
     <td>    For once in my life i actually did pretty decent on codecademy meaning i didn't have to do loads of work at home to catch up on. I learned by taking what i have learned before and applying most of them to my current work. The most effective strategy was to look at the example given and to apply it to my work and to read the question.</td>
@@ -66,7 +66,7 @@ published: true
 
 <table>
   <tr>
-    <td>***What limited my learning?What strategies do i need to work on?***</td>
+    <th>***What limited my learning?What strategies do i need to work on?***</th>
   </tr>
   <tr>
     <td>  What limited my learning this week was yet again a common mistake in my learning across all subjects. James Spicer, yet again, has got an A* in not reading the question probably. I need to work on reminding myself to rtfq (read the full question incase you thought otherwise). Have a checklist before i attempt the question, something like this, step 1 read the question.</td>
